@@ -1,0 +1,33 @@
+.dolphin {
+    border-radius: 30px;
+    box-shadow: 0 0.125em 0.063em 0.063em rgb(211, 115, 73);
+    width: 300px;
+}
+
+.qr-code {
+    display: grid;
+}
+
+.amhg {
+    grid-column: -41;
+    grid-row: 7;
+    transform: rotate(-180deg);
+}
+
+.zsnd {
+    grid-column: -117;
+    grid-row: -50;
+    transform: rotate(90deg);
+}
+
+.iefj {
+    grid-column: 41;
+    grid-row: -7;
+    transform: rotate(-90deg);
+}
+
+.dsqih {
+    grid-column: -71;
+    grid-row: -47;
+    transform: rotate(180deg);
+}

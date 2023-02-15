@@ -1,0 +1,47 @@
+#title-Tag-Line {
+	font-size: 20px;
+}
+
+::-webkit-input-placeholder {
+	font-size: 1.3em;
+}
+
+.termsConditions {
+	margin: 0 auto 5px 80px;
+}
+
+.secondaryTitle {
+	color: grey;
+}
+
+.name {
+	background-color: #ebebeb;
+	color: black;
+}
+
+.email {
+	background-color: #ebebeb;
+	height: 2em;
+}
+
+.message {
+	overflow: hidden;
+	resize: none;
+}
+
+.submit {
+	background-color: #c81863;
+	color: white;
+	font-size: 20px;
+	width: 200px;
+}
+
+.center {
+	text-align: center;
+}
+
+.image img {
+	width: 10%;
+}
+  
+  
